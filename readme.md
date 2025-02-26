@@ -60,6 +60,17 @@ CRUDify-Express/
 - **Edit a post:** Click 'Edit Post' and modify content.
 - **Delete a post:** Click 'Delete Post' to remove it permanently.
 
+## Screenshots
+
+Here are some screenshots of the application:
+
+![Homepage](public/images/Screenshot%201.png)
+![Create Post](public/images/Screenshot%202.png)
+![Edit Post](public/images/Screenshot%203.png)
+![View Post](public/images/Screenshot%204.png)
+
+(Replace `path/to/...` with actual image paths after uploading screenshots to your repository.)
+
 ## Contributing
 
 Feel free to fork the repository and submit a pull request with improvements!
