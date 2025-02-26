@@ -69,8 +69,6 @@ Here are some screenshots of the application:
 ![Edit Post](public/images/Screenshot%203.png)
 ![View Post](public/images/Screenshot%204.png)
 
-(Replace `path/to/...` with actual image paths after uploading screenshots to your repository.)
-
 ## Contributing
 
 Feel free to fork the repository and submit a pull request with improvements!
